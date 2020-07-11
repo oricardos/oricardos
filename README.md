@@ -4,9 +4,8 @@
 
 :books: Atualmente estou estudando **ReactJS**
 
-**Onde me achar?**<br>
-[LinkedIn](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
-[Instagram](https://www.instagram.com/oricardo_/)
+**Onde me encontrar?**<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ricardo-silva/)](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
 
 **Lazer**<br>
 - :family: Curtir a família
