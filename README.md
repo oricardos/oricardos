@@ -1,8 +1,8 @@
 ### Hi there :octocat:
 
-<p>Me chamo Luiz Ricardo Silva, tenho 26 anos, de Belo Horizonte.</p>
+<p>Me chamo Luiz Ricardo Silva, tenho 26 anos, desenvolvedor Front-End.</p>
 
-:books: Atualmente estou estudando **ReactJS | NodeJS**
+:books: Atualmente estou estudando **ReactJS**
 
 **Onde me achar?**<br>
 [LinkedIn](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
