@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi there :octocat:
 
+<p>Me chamo Luiz Ricardo Silva, tenho 26 anos, de Belo Horizonte.</p>
+
+:books: Atualmente estou estudando **ReactJS | NodeJS**
+
+**Onde me achar?**<br>
+[LinkedIn](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
+[Instagram](https://www.instagram.com/oricardo_/)
+
+**Lazer**<br>
+- :family: Curtir a família
+- :camera: Tirar fotos
+- :clapper: Editar vídeos
+- :video_game: Jogar
+- :book: Ler
+- :musical_score: Tocar
 <!--
 **oricardos/oricardos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
