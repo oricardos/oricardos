@@ -2,7 +2,7 @@
 
 <p>Me chamo Luiz Ricardo Silva, tenho 26 anos, desenvolvedor Front-End.</p>
 
-:books: Atualmente estou estudando **ReactJS**
+:books: Atualmente estou estudando **ReactJS**.
 
 **Onde me encontrar?**<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ricardo-silva/)](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
