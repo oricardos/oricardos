@@ -1,19 +1,19 @@
 ### Hi there :octocat:
 
-<p>Me chamo Luiz Ricardo Silva, tenho 26 anos, desenvolvedor Front-End.</p>
+<p>My name is Luiz Ricardo Silva, I'm 26 years old, Front-End developer.</p>
 
-:books: Atualmente estou estudando **ReactJS**.
+:books: I am currently studying **ReactJS**.
 
-**Onde me encontrar?**<br>
+**Where to find me?**<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ricardo-silva/)](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
 
-**Lazer**<br>
-- :family: Curtir a família
-- :camera: Tirar fotos
-- :clapper: Editar vídeos
-- :video_game: Jogar
-- :book: Ler
-- :musical_score: Tocar
+**recreation**<br>
+- :family: Spending time with family
+- :camera: Take pictures
+- :clapper: Edit videos
+- :video_game: Play video game
+- :book: Read
+- :musical_score: Play the drums
 <!--
 **oricardos/oricardos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
