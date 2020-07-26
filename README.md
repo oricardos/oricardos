@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **ricardo.rs95@gmail.com**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></p>
-
 **Where to find me?**<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ricardo-silva/)](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
 
