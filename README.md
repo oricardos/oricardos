@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Ricardo Silva</h1>
 <h3 align="center">Frontend developer from Belo Horizonte</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oricardos" alt="oricardos" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://oricardo.netlify.app/](https://oricardo.netlify.app/)
 
