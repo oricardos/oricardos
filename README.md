@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luiz Ricardo Silva</h1>
-<h3 align="center">Frontend developer from Belo Horizonte</h3>
+<h3 align="center">Front-end developer from Belo Horizonte</h3>
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oricardos)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👨‍💻 All of my projects are available at [https://oricardo.netlify.app/](https://oricardo.netlify.app/)
