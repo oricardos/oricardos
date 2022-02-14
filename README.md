@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://oricardo.netlify.app/](https://oricardo.netlify.app/)
 
-- 📫 How to reach me **ricardo.rs95@gmail.com**
+- 📫 How to reach me **oricardo.dev@gmail.com**
 
 **Where to find me?**<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ricardo-silva/)](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
