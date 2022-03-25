@@ -2,10 +2,12 @@
 <h3 align="center">Front-end developer from Belo Horizonte</h3>
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oricardos)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oricardos&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oricardos&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👨‍💻 All of my projects are available at [https://oricardo.netlify.app/](https://oricardo.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://oricardo.netlify.app/](https://oricardo.netlify.app/) -->
 
 - 📫 How to reach me **oricardo.dev@gmail.com**
 
@@ -14,17 +16,13 @@
 
 **Recreation**<br>
 - :family: Spending time with family
-- :camera: Take pictures
-- :clapper: Edit videos
 - :video_game: Play video game
 - :book: Read
-- :musical_score: Play the drums
+- :man_technologist: Program
 
 **Professional**<br>
 - 🔭 I’m currently working on [@onimusic](https://onimusic.com.br/)
 - 🌱 I’m currently learning JS / ReactJS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oricardos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
