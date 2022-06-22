@@ -29,7 +29,7 @@
 
 **Professional**<br>
 - 🔭 I’m currently working on [@onimusic](https://onimusic.com.br/)
-- 🌱 I’m currently learning JS / ReactJS
+- 🌱 I’m currently learning JS Stack <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 
 <!--
