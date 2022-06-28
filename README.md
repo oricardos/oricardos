@@ -21,11 +21,11 @@
 **Where to find me?**<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ricardo-silva/)](https://www.linkedin.com/in/luiz-ricardo-silva/)<br>
 
-**Recreation**<br>
+<!-- **Recreation**<br>
 - :family: Spending time with family
 - :video_game: Play video game
 - :book: Read
-- :man_technologist: Program
+- :man_technologist: Program -->
 
 **Professional**<br>
 - 🔭 I’m currently working on [@onimusic](https://onimusic.com.br/)
