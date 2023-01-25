@@ -13,24 +13,39 @@
   </a>
 </div> 
 
+<br />
 
 <!-- - 👨‍💻 All of my projects are available at [https://oricardo.netlify.app/](https://oricardo.netlify.app/) -->
+<div align="center">
 
-- 📫 How to reach me **oricardo.dev@gmail.com**
+📫 How to reach me **oricardo.dev@gmail.com**
+ </div>
+ 
+ <br />
+ 
+ <div align="center">
 
 **Where to find me?**<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ricardo-silva/)](https://www.linkedin.com/in/luiz-ricardo-silva/)
-
+ </div>
+ 
+ 
 <!-- **Recreation**<br>
 - :family: Spending time with family
 - :video_game: Play video game
 - :book: Read
 - :man_technologist: Program -->
 
-**Professional**<br>
-- 🔭 I’m currently working on [@onimusic](https://onimusic.com.br/)
-- 🌱 I’m currently learning Python / Django <br/><br/>
+ <br />
+ 
+ <div align="center">
 
+**Professional**<br>
+🔭 I’m currently working on [@onimusic](https://onimusic.com.br/) <br />
+🌱 I’m currently learning Python / Django <br/><br/>
+</div>
+
+ <br />
 
 <div align="center">
 
