@@ -18,7 +18,7 @@
 <!-- - 👨‍💻 All of my projects are available at [https://oricardo.netlify.app/](https://oricardo.netlify.app/) -->
 <div align="center">
 
-📫 **oricardo.dev@gmail.com**
+📫 How to reach me **oricardo.dev@gmail.com**
  </div>
  
  <br />
