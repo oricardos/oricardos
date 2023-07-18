@@ -1,72 +1,15 @@
-<h1 align="center">Hi 👋, I'm Luiz Ricardo Silva</h1>
-<h3 align="center">Front-end developer from Belo Horizonte</h3>
+<h1 align="center">Hi 👋, I'm Luiz Ricardo</h1>
+<h3 align="center">A passionate frontend developer from Belo Horizonte</h3>
 
+- 🔭 I’m currently working on **Onimusic**
 
- <!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oricardos&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oricardos&layout=compact&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-  
-   <div align="center">
-  <a href="https://github.com/oricardos">
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oricardos&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=2D333B"/> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oricardos&layout=compact&langs_count=7&theme=react&border_radius=8&hide_border=true&bg_color=2D333B"/>
-  </a>
-</div> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/oricardos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oricardos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luiz-ricardo-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-ricardo-silva" height="30" width="40" /></a>
+<a href="https://instagram.com/oricardo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oricardo_" height="30" width="40" /></a>
+<a href="https://dribbble.com/oricardos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="oricardos" height="30" width="40" /></a>
+</p>
 
-<br />
-
-<!-- - 👨‍💻 All of my projects are available at [https://oricardo.netlify.app/](https://oricardo.netlify.app/) -->
-<div align="center">
-
-📫 How to reach me **oricardo.dev@gmail.com**
- </div>
- 
- <br />
- 
- <div align="center">
-
-**Where to find me?**<br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ricardo-silva/)](https://www.linkedin.com/in/luiz-ricardo-silva/)
- </div>
- 
- 
-<!-- **Recreation**<br>
-- :family: Spending time with family
-- :video_game: Play video game
-- :book: Read
-- :man_technologist: Program -->
-
- <br />
- 
- <div align="center">
-
-**Professional**<br>
-🔭 I’m currently working on [@onimusic](https://onimusic.com.br/) <br />
-🌱 I’m currently learning Python / Django <br/><br/>
-</div>
-
- <br />
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-<img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-</div>
-
-<!--
-**oricardos/oricardos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
