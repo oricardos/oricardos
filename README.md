@@ -1,10 +1,27 @@
 <h1 align="center">Hi 👋, I'm Luiz Ricardo</h1>
-<h3 align="center">A developer from Belo Horizonte</h3>
-<!--
-- 🔭 I’m currently working on ** **
--->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>A developer from Belo Horizonte</h3>
+<h5>Experience:</h5>
+<p>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>          
+          
+</p>
+          
+<h5>Studying:</h5>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40"/>
+          
+          
+<h3>Connect with me:</h3>
+<p>
 <!-- <a href="https://dev.to/oricardos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oricardos" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/luiz-ricardo-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-ricardo-silva" height="30" width="40" /></a>
 <a href="https://instagram.com/oricardo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oricardo_" height="30" width="40" /></a>
