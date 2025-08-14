@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Luiz Ricardo</h1>
-<h3>A developer from Belo Horizonte</h3>
+<h3>Hi 👋, I'm Luiz Ricardo</h3>
+<h4>A developer from Belo Horizonte</h4>
 <h5>Experience:</h5>
 <p>
 
